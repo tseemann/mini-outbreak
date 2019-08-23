@@ -18,9 +18,9 @@ This project aims to be small but complete:
 * Different reference genomes
 * Small genome sizes < 100 kbp
 * Each genome 
-** MLST typeable
-** 0+ AMR genes
-** 0+ virulence genes
+    * MLST typeable
+    * 0+ AMR genes
+    * 0+ virulence genes
 
 ## Using the data
 
